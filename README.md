@@ -1,6 +1,6 @@
 # Taller de Recursividad
 
-**Estudiante:** _[Juan DAvid Hipia Lopez]_
+**Estudiante:** _[Juan David Hipia Lopez]_
 
 ## Descripción del taller
 
